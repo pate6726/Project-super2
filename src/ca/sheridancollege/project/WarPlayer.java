@@ -37,7 +37,7 @@ public class WarPlayer extends Player {
         losses++;
     }
     
-    // Show player stats
+    
     public void showStats() {
         System.out.println(getName() + " - Wins: " + wins + ", Losses: " + losses);
     }
